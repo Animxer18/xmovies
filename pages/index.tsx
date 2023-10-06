@@ -110,7 +110,7 @@ const DramaShows = async () => {
   return (
     <div className="">
       <Head>
-        <title>Otto Movies</title>
+        <title>XERMOVIES</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
